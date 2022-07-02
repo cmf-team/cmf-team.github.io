@@ -34,3 +34,5 @@ Our next step:
 1. What would Jane Wu want to do in her career?
 2. How do our Python notebooks help her?
 3. Alternative characters, their intents and why this repo would help.
+
+You answers are welcome in https://github.com/epogrebnyak/cmf/issues/1
