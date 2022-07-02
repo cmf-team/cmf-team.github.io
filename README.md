@@ -2,6 +2,8 @@
 
 Code in finance: demo projects, videos, datasets by Team CMF.
 
+![](https://finec.mgimo.ru/blog/cmf-for-quantative-finance-fall-2022/cmf1.jpg)
+
 ## What is CMF
 
 CMF is a community learning program focused on quantative finance, data analysis project and smart contracts.
