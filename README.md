@@ -1,6 +1,6 @@
 # Team CMF
 
-Machine learning in finance: demo projects, videos and datasets by Team CMF.
+Machine learning in finance: collaborative learning and career jumpstart by Team CMF.
 
 ![](https://finec.mgimo.ru/blog/cmf-for-quantative-finance-fall-2022/cmf1.jpg)
 
