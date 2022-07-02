@@ -1,16 +1,18 @@
 # Team CMF
 
-Code in finance: demo projects, videos, datasets by Team CMF.
+Machine learning in finance: demo projects, videos and datasets by Team CMF.
 
 ![](https://finec.mgimo.ru/blog/cmf-for-quantative-finance-fall-2022/cmf1.jpg)
 
 ## What is CMF
 
 CMF is a community learning program focused on quantative finance, data analysis project and smart contracts.
-Orginally started as econometrics seminar it is now managed by program alumni as well as program founders,
-Andrey Zlotnik and Evgeniy Lukash. The program allows students to work on real life quantative projects
-in remote teams and gain insights from recent graduates about banking, trading, economic research and 
-new areas in finance such as digital assets and fintech. Admission to program is free upon passing quantative exam.
+Orginally started as econometrics seminar in 2007, launched as Center for Mathematic Finance (CMF) in 2012, 
+it is now managed by program alumni as well as program founders, Andrey Zlotnik and Evgeniy Lukash. 
+
+The program allows students to work on real life quantative projects in remote teams and gain insights 
+from recent graduates about banking, trading, economic research and new areas in finance such 
+as digital assets and fintech. Admission to program is free upon passing quantative exam.
 
 ## Why Github?
 
@@ -37,4 +39,4 @@ Our next step:
 2. How do our Python notebooks help her?
 3. Alternative characters, their intents and why this repo would help.
 
-You answers are welcome in https://github.com/epogrebnyak/cmf/issues/1
+You answers are welcome in issue https://github.com/epogrebnyak/cmf/issues/1
