@@ -1,6 +1,6 @@
 # Team CMF
 
-Machine learning in finance: collaborative learning and career jumpstart by Team CMF.
+Collaborative learning and career jumpstart in quant finance, risk management and data analysis.
 
 ![](https://finec.mgimo.ru/blog/cmf-for-quantative-finance-fall-2022/cmf1.jpg)
 
