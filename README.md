@@ -9,3 +9,5 @@ and hosted on Github Pages.
 Site configuration: [\_config.yml](_config.yml).
 
 Content: so far the website is just one page, built using [index.md](index.md). 
+
+The site is hosted at <epogrebnyak.github.io/cmf-team>, but can move to a new own address.
