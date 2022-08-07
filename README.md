@@ -10,9 +10,12 @@ CMF is a community learning program focused on quantative finance, risk manageme
 Orginally started as econometrics seminar in 2007 by Evgeniy Lukash and Andrey Zlotnik. 
 Center for Mathematic Finance (CMF) was launched in 2012 as a free acess open education initiative. 
 
+## Our program
+
 Each year we select students who would like to work on real-life quantative project and 
 gain insights form mentors, peers and CMF alumni about banking, finance, economic research 
-and new areas such as digital assets and fintech. Admission to program is free to students upon passing quantative exam.
+and new areas such as digital assets and fintech. 
+Admission to program is free to students upon passing quantative exam.
 
 ## Why Github?
 
