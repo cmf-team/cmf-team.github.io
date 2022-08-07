@@ -2,5 +2,5 @@ title: CMF Team
 description: Project-based learning for career start in quantative finance, risk management and data analysis.
 remote_theme: pages-themes/primer@v0.6.0
 plugins:
-- jekyll-remote-theme
 - jekyll-youtube
+- jekyll-remote-theme
