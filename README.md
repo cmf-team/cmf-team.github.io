@@ -1,4 +1,4 @@
-# Team CMF
+# CMF Team
 
 Collaborative learning and career jumpstart in quant finance, risk management and data analysis.
 
