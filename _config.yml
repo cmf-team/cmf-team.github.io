@@ -3,3 +3,4 @@ description: Project-based learning for career start in quantative finance, risk
 remote_theme: pages-themes/primer@v0.6.0
 plugins:
 - jekyll-remote-theme
+- jekyll-youtube
