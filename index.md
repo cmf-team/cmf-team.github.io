@@ -22,8 +22,6 @@ The cost of joining the CMF program is just your time and commitment. There is n
 
 Totally. Our students are able to start or switch careers in banking and quantitative finance in reputable international companies and gain access to a network of alumni and peers.
 
-<!-- ## How can I join  --!>
-
 ## Why Github?
 
 In CMF we believe in open science and collaborative work. Our original course is administered as videos and Jupyter notebooks in Google drive with chat in Slack and Moodle LMS. Works well, but we think some parts of our work can be open sourced. 
@@ -32,6 +30,4 @@ In CMF we believe in open science and collaborative work. Our original course is
 
 ## Sample video
 
-Oleg Itskhoki (2009): Exchange rate pass-through into prices.
-
-{% youtube "https://www.youtube.com/watch?v=Q0zpI8zoo10" %}
+- [Oleg Itskhoki (2009). Exchange rate pass-through into prices.](https://www.youtube.com/watch?v=Q0zpI8zoo10)
