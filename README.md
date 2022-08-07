@@ -14,7 +14,7 @@ Content: so far the website is just one page, built using [index.md](index.md).
 
 ## URL
 
-The site is hosted at <epogrebnyak.github.io/cmf-team>, but can move to a new own address.
+The site is hosted at <https://epogrebnyak.github.io/cmf-team/>, but can move to a new own address.
 
 ## Roadmap
 
