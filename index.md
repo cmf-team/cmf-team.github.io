@@ -2,12 +2,15 @@
 
 Center for Mathematical Finance (CMF) is a community learning program focused on quantitative finance, risk management and data analysis.
 
-Originally started as econometrics seminar in 2007 by Evgeniy Lukash and Andrey Zlotnik.
-Launched in 2012 as a free enrollment education initiative focused on CFA preparation. Fully online, project-based and open to international enrollment since 2020.
+## Milestones
+
+- Originally started as econometrics seminar in 2007 by Evgeniy Lukash and Andrey Zlotnik.
+- Launched in 2012 as a free course focused on CFA preparation. 
+- Fully online, project-based and open to global enrollment since 2020.
 
 ![](https://finec.mgimo.ru/blog/cmf-for-quantative-finance-fall-2022/cmf1.jpg)
 
-## Our program
+## Our program in 2022
 
 Each year we select students who would like to work on real-life quantitative projects and 
 gain insights from mentors, peers and CMF alumni covering banking, trading, finance, economic research and frontier areas such as digital assets and fintech. 
