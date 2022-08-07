@@ -2,8 +2,10 @@
 
 This repo hosts an experimental website for CMF Team.
 
-The site is build with [Jekyll](https://jekyllrb.com/) and hosted on Github Pages.
+The site is build with [Jekyll](https://jekyllrb.com/) 
+using remote [Primer](https://pages-themes.github.io/primer/) theme 
+and hosted on Github Pages.
 
-Configuration: [\_config.yml](_config.yml)
+Site configuration: [\_config.yml](_config.yml).
 
-Content: so far the web page is just one file, [index.md](index.md) 
+Content: so far the website is just one page, built using [index.md](index.md). 
