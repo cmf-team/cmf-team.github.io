@@ -19,24 +19,3 @@ as digital assets and fintech. Admission to program is free upon passing quantat
 In CMF we believe in open science and collaborative work. Our original course is administered 
 as videos and Jupyter notebooks in Google drive with chat in Slack and Moodle LMS. Works well,
 but we think some parts of our work can be an open website or code repos.
-
-## Our user: Jane Wu story
-
-Should we provide entry-level or state-of-art for machine learning in finance code in a repo?
-Should we give just project ideas or complete solutions as well? 
-Would our enthusiasm for open code in finance sustain or dry out? 
-How do our learning materials compare to other offerings?
-
-We cannot answer this without experimenting and directing these experiments to a specific user.
-In our initial discussion we thought the user is a professional who has to go over a entry barrier
-in data analysis - starting to code and delivering projects that are meaningful for business.
-The person is English-speaking, and perhaps of origin from an emerging market. This is a young woman 
-in her twenties and her name is Jane Wu.
-
-Our next step:
-
-1. What would Jane Wu want to do in her career?
-2. How do our Python notebooks help her?
-3. Alternative characters, their intents and why this repo would help.
-
-You answers are welcome in issue https://github.com/epogrebnyak/cmf/issues/1
