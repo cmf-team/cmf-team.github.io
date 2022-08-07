@@ -1,24 +1,37 @@
-# CMF Team
+## What is CMF
 
-CMF Team provides free collaborative learning courses that help starting a career in quantative finance, risk management or data analysis.
+Center for Mathematical Finance (CMF) is a community learning program focused on quantitative finance, risk management and data analysis.
+
+Originally started as econometrics seminar in 2007 by Evgeniy Lukash and Andrey Zlotnik.
+Launched in 2012 as a free enrollment education initiative focused on CFA preparation. Fully online, project-based and open to international enrollment since 2020.
 
 ![](https://finec.mgimo.ru/blog/cmf-for-quantative-finance-fall-2022/cmf1.jpg)
 
-## What is CMF
-
-CMF is a community learning program focused on quantative finance, risk management and data analysis.
-Orginally started as econometrics seminar in 2007 by Evgeniy Lukash and Andrey Zlotnik. 
-Center for Mathematic Finance (CMF) was launched in 2012 as a free acess open education initiative. 
-
 ## Our program
 
-Each year we select students who would like to work on real-life quantative project and 
-gain insights form mentors, peers and CMF alumni about banking, finance, economic research 
-and new areas such as digital assets and fintech. 
-Admission to program is free to students upon passing quantative exam.
+Each year we select students who would like to work on real-life quantitative projects and 
+gain insights from mentors, peers and CMF alumni covering banking, trading, finance, economic research and frontier areas such as digital assets and fintech. 
+
+Visit [this post](https://www.linkedin.com/feed/update/urn:li:activity:6957988000706273281/) about our programs and enrollment in autumn 2022.
+
+## Is the CMF program really free for students?
+
+The cost of joining the CMF program is just your time and commitment. There is no tuition or any other costs for students. All you have to do is to pass an entry exam and actively participate in projects you selected based on your interest.
+
+## Is the CMF program worth it?
+
+Totally. Our students are able to start or switch careers in banking and quantitative finance in reputable international companies and gain access to a network of alumni and peers.
+
+<!-- ## How can I join  --!>
 
 ## Why Github?
 
-In CMF we believe in open science and collaborative work. Our original course is administered 
-as videos and Jupyter notebooks in Google drive with chat in Slack and Moodle LMS. Works well,
-but we think some parts of our work can be an open website or code repos. 
+In CMF we believe in open science and collaborative work. Our original course is administered as videos and Jupyter notebooks in Google drive with chat in Slack and Moodle LMS. Works well, but we think some parts of our work can be open sourced. 
+
+[This repo](https://github.com/epogrebnyak/cmf-team) is an experimental home for code, datasets and videos by CMF.
+
+## Sample video
+
+Oleg Itskhoki (2009): Exchange rate pass-through into prices.
+
+{% youtube "https://www.youtube.com/watch?v=Q0zpI8zoo10" %}
