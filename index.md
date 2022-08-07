@@ -7,13 +7,13 @@ Center for Mathematical Finance (CMF) is a community learning program focused on
 ## Milestones
 
 - Originally started as econometrics seminar in 2007 by Evgeniy Lukash and Andrey Zlotnik.
-- Launched in 2012 as a free course focused on CFA preparation. 
+- Launched in 2012 as a free course focused on CFA preparation.
 - Fully online, project-based and open to global enrollment since 2020.
 
 ## Our program
 
-Each year we select students who would like to work on real-life quantitative projects and 
-gain insights from mentors, peers and CMF alumni covering topics in banking, finance, trading, economic research and frontier areas such as digital assets and fintech. 
+Each year we select students who would like to work on real-life quantitative projects and
+gain insights from mentors, peers and CMF alumni covering topics in banking, finance, trading, economic research and frontier areas such as digital assets and fintech.
 
 Visit [this post](https://www.linkedin.com/feed/update/urn:li:activity:6957988000706273281/) about our programs and enrollment in autumn 2022.
 
@@ -27,7 +27,7 @@ Totally. Our students are able to start or switch careers in banking and quantit
 
 ## Why Github?
 
-In CMF we believe in open science and collaborative work. Our original course is administered as videos and Jupyter notebooks in Google drive with chat in Slack and Moodle LMS. Works well, but we think some parts of our work can be open sourced. 
+In CMF we believe in open science and collaborative work. Our original course is administered as videos and Jupyter notebooks in Google drive with chat in Slack and Moodle LMS. Works well, but we think some parts of our work can be open sourced.
 
 [This repo](https://github.com/epogrebnyak/cmf-team) is an experimental home for code, datasets and videos by CMF.
 
