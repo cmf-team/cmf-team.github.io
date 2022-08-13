@@ -18,7 +18,7 @@ The site is hosted at <https://epogrebnyak.github.io/cmf-team/>, but can move to
 
 ## Roadmap
 
-- [ ] add more content (with a user profile in mind)
+- [ ] add more content (with who are the users in mind)
 - [ ] make a selection of videos
 - [ ] add Google Analytics
 - [ ] engage more students and team members with Github
