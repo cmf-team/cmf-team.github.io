@@ -33,4 +33,8 @@ In CMF we believe in open science and collaborative work. Our original course is
 
 ## Sample video
 
+Oleg Itskhoki exchange rate pass-through into prices in 2009.
+
 {% youtube "https://www.youtube.com/watch?v=Q0zpI8zoo10" %}
+
+<p>
