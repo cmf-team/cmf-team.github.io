@@ -15,7 +15,9 @@ Center for Mathematical Finance (CMF) is a community learning program focused on
 Each year we select students who would like to work on real-life quantitative projects and
 gain insights from mentors, peers and CMF alumni covering topics in banking, finance, trading, economic research and frontier areas such as digital assets and fintech.
 
-Visit [this post](https://www.linkedin.com/feed/update/urn:li:activity:6957988000706273281/) about our programs and enrollment in autumn 2022.
+[linkedin]: ![](https://img.shields.io/badge/CMF-blue?style=flatsquare&logo=linkedin&logoColor=white)
+
+Visit [this post ![LinkedIn][linkedin]](https://www.linkedin.com/feed/update/urn:li:activity:6957988000706273281/) about our programs and enrollment in autumn 2022.
 
 ## Is the CMF program really free for students?
 
