@@ -14,13 +14,20 @@ Content: so far the website is just one page, built using [index.md](index.md).
 
 ## URL
 
-The site is hosted at <https://epogrebnyak.github.io/cmf-team/>, but can move to a new own address.
+The site is hosted at <https://cmf-team.github.io>.
+
+The repo URL is <https://github.com/cmf-team/cmf-team.github.io>.
 
 ## Roadmap
 
-- [ ] add more content (with who are the users in mind)
-- [ ] make a selection of videos
-- [ ] add Google Analytics
+Series A:
+
+- [x] created Github org, new users are welcome!
+- [ ] make a selection of videos and publish at website
 - [ ] engage more students and team members with Github
+
+Series B:
+
+- [ ] add Google Analytics
 - [ ] own domain name
 - [ ] more sophisticsted theme if needed
