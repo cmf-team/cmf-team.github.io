@@ -7,7 +7,7 @@ Center for Mathematical Finance (CMF) is a community learning program focused on
 ## Milestones
 
 - Originally started as financial econometrics seminar in 2007 by Eugene Lukash and Andrew Zlotnik.
-- Launched in 2012 as a free course focused on quantitative financial research, matching CFA curriculum.
+- Launched in 2012 as a free course focused on the applied quantitative research, matching CFA curriculum.
 - Fully online, project-based and open to global enrollment since 2020.
 
 ## Our program
