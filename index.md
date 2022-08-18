@@ -3,6 +3,7 @@
 Center for Mathematical Finance (CMF) is a community learning program focused on quantitative finance, data science and investment research.
 
 ![](https://sun9-52.userapi.com/impf/c604320/v604320483/1f3e3/8CjhhaAkMRU.jpg?size=1280x853&quality=96&sign=8e7e27ce31861bc5af85c3a35667506e&type=album)
+![](https://sun9-48.userapi.com/impf/c852320/v852320055/1ecf5d/tSaB7VxPVUI.jpg?size=1600x1065&quality=96&sign=151aa242df47cb90f4ccdcb4c47f46d3&type=album)
 
 ## Milestones
 
