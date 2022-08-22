@@ -33,8 +33,10 @@ In CMF we believe in open science and collaborative work. Our original course is
 
 [This repo](https://github.com/epogrebnyak/cmf-team) is an experimental home for code, datasets and videos by CMF.
 
-## CMF lectures on YouTube
-CMF mini-cources in the public domain (in Russian):
+## CMF on YouTube
+
+
+_CMF Team mini-cources in the public domain (in Russian):_
 
 Stochastic processes: https://www.youtube.com/playlist?list=PLBMgVdAlqlww-x8OcNz8oGTjcjW3O7Te_
 
@@ -45,6 +47,22 @@ Financial Econometrics: https://www.youtube.com/playlist?list=PLBMgVdAlqlwx7cDL4
 Machine Learning: https://www.youtube.com/playlist?list=PLBMgVdAlqlwxhaOvbP52t7y3c-ewVNJP-
 
 Topics in Data Science: https://www.youtube.com/playlist?list=PLBMgVdAlqlwxraYIYO1jrcPYNcfnjfzYp
+
+
+_CMF Team Seminars：_
+
+Financial Economics and Quantitative Finance (International Workshop in English): https://www.youtube.com/playlist?list=PLBMgVdAlqlwxENa3Zm8NwF8m7JZMHZlcV
+
+Financial Econometrics (Scientific Workshop at Moscow State University): https://www.youtube.com/playlist?list=PLBMgVdAlqlwyWwCr9Gk0VcnCmWkr-0iCX
+
+
+_Projects of students at the CMF Programs：_
+https://www.youtube.com/playlist?list=PLBMgVdAlqlwypXtAJZ4bjnny72KPcFstc
+
+
+_CMF Team Podcasts on YouTube_
+https://www.youtube.com/playlist?list=PLBMgVdAlqlwxHpk89KiEbvUFe2W9N-ac9
+
 
 ## Sample video
 
