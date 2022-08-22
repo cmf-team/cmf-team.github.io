@@ -60,7 +60,7 @@ _Other Projects：_
 - [_Projects of students at the CMF Programs (mostly in Russian)_](https://www.youtube.com/playlist?list=PLBMgVdAlqlwypXtAJZ4bjnny72KPcFstc)
 
 
-- [_CMF Team Podcasts on YouTube (in Russian)_](https://www.youtube.com/playlist?list=PLBMgVdAlqlwxHpk89KiEbvUFe2W9N-ac9)
+- [_Podcasts (in Russian)_](https://www.youtube.com/playlist?list=PLBMgVdAlqlwxHpk89KiEbvUFe2W9N-ac9)
 
 
 ## Sample video
