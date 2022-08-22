@@ -57,10 +57,10 @@ In CMF we believe in open science and collaborative work. Our original course is
 
 
 **Other Projects:**
-- [_Projects of students at the CMF Programs (mostly in Russian)_](https://www.youtube.com/playlist?list=PLBMgVdAlqlwypXtAJZ4bjnny72KPcFstc)
+- [Projects of students at the CMF Programs (mostly in Russian)](https://www.youtube.com/playlist?list=PLBMgVdAlqlwypXtAJZ4bjnny72KPcFstc)
 
 
-- [_Podcasts (in Russian)_](https://www.youtube.com/playlist?list=PLBMgVdAlqlwxHpk89KiEbvUFe2W9N-ac9)
+- [Podcasts (in Russian)](https://www.youtube.com/playlist?list=PLBMgVdAlqlwxHpk89KiEbvUFe2W9N-ac9)
 
 
 ## Sample video
