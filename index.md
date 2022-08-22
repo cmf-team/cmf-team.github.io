@@ -33,33 +33,33 @@ In CMF we believe in open science and collaborative work. Our original course is
 
 [This repo](https://github.com/epogrebnyak/cmf-team) is an experimental home for code, datasets and videos by CMF.
 
-## CMF on YouTube
+## CMF on YouTube (Playlists)
 
 
 _CMF Team mini-cources in the public domain (in Russian):_
 
-Stochastic processes: https://www.youtube.com/playlist?list=PLBMgVdAlqlww-x8OcNz8oGTjcjW3O7Te_
+- Stochastic processes: https://www.youtube.com/playlist?list=PLBMgVdAlqlww-x8OcNz8oGTjcjW3O7Te_
 
-Financial mathematics: https://www.youtube.com/playlist?list=PLBMgVdAlqlwwt3F9fCxJ8xX2xeDVeXQxT
+- Financial mathematics: https://www.youtube.com/playlist?list=PLBMgVdAlqlwwt3F9fCxJ8xX2xeDVeXQxT
 
-Financial Econometrics: https://www.youtube.com/playlist?list=PLBMgVdAlqlwx7cDL4kvuKq1YbVJF7rwCw
+- Financial Econometrics: https://www.youtube.com/playlist?list=PLBMgVdAlqlwx7cDL4kvuKq1YbVJF7rwCw
 
-Machine Learning: https://www.youtube.com/playlist?list=PLBMgVdAlqlwxhaOvbP52t7y3c-ewVNJP-
+- Machine Learning: https://www.youtube.com/playlist?list=PLBMgVdAlqlwxhaOvbP52t7y3c-ewVNJP-
 
-Topics in Data Science: https://www.youtube.com/playlist?list=PLBMgVdAlqlwxraYIYO1jrcPYNcfnjfzYp
+- Topics in Data Science: https://www.youtube.com/playlist?list=PLBMgVdAlqlwxraYIYO1jrcPYNcfnjfzYp
 
 
 _CMF Team Seminars：_
 
-Financial Economics and Quantitative Finance (International Workshop in English): https://www.youtube.com/playlist?list=PLBMgVdAlqlwxENa3Zm8NwF8m7JZMHZlcV
+- Financial Economics and Quantitative Finance (International Workshop in English): https://www.youtube.com/playlist?list=PLBMgVdAlqlwxENa3Zm8NwF8m7JZMHZlcV
 
-Financial Econometrics (Scientific Workshop at Moscow State University in Russian): https://www.youtube.com/playlist?list=PLBMgVdAlqlwyWwCr9Gk0VcnCmWkr-0iCX
+- Financial Econometrics (Scientific Workshop at Moscow State University in Russian): https://www.youtube.com/playlist?list=PLBMgVdAlqlwyWwCr9Gk0VcnCmWkr-0iCX
 
 
 _Projects of students at the CMF Programs (in Russian)：_ https://www.youtube.com/playlist?list=PLBMgVdAlqlwypXtAJZ4bjnny72KPcFstc
 
 
-_CMF Team Podcasts on YouTube (Mostly in Russian):_ https://www.youtube.com/playlist?list=PLBMgVdAlqlwxHpk89KiEbvUFe2W9N-ac9
+_CMF Team Podcasts on YouTube (mostly in Russian):_ https://www.youtube.com/playlist?list=PLBMgVdAlqlwxHpk89KiEbvUFe2W9N-ac9
 
 
 ## Sample video
