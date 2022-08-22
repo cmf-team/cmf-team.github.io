@@ -42,9 +42,9 @@ _CMF Team mini-cources in the public domain (in Russian):_
 
 - [Financial mathematics](https://www.youtube.com/playlist?list=PLBMgVdAlqlwwt3F9fCxJ8xX2xeDVeXQxT)
 
-- [Financial Econometrics](https://www.youtube.com/playlist?list=PLBMgVdAlqlwx7cDL4kvuKq1YbVJF7rwCw)
+- [Financial econometrics](https://www.youtube.com/playlist?list=PLBMgVdAlqlwx7cDL4kvuKq1YbVJF7rwCw)
 
-- [Machine Learning](https://www.youtube.com/playlist?list=PLBMgVdAlqlwxhaOvbP52t7y3c-ewVNJP-)
+- [Machine learning](https://www.youtube.com/playlist?list=PLBMgVdAlqlwxhaOvbP52t7y3c-ewVNJP-)
 
 - [Topics in Data Science](https://www.youtube.com/playlist?list=PLBMgVdAlqlwxraYIYO1jrcPYNcfnjfzYp)
 
