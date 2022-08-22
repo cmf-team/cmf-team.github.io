@@ -53,15 +53,13 @@ _CMF Team Seminars：_
 
 Financial Economics and Quantitative Finance (International Workshop in English): https://www.youtube.com/playlist?list=PLBMgVdAlqlwxENa3Zm8NwF8m7JZMHZlcV
 
-Financial Econometrics (Scientific Workshop at Moscow State University): https://www.youtube.com/playlist?list=PLBMgVdAlqlwyWwCr9Gk0VcnCmWkr-0iCX
+Financial Econometrics (Scientific Workshop at Moscow State University in Russian): https://www.youtube.com/playlist?list=PLBMgVdAlqlwyWwCr9Gk0VcnCmWkr-0iCX
 
 
-_Projects of students at the CMF Programs：_
-https://www.youtube.com/playlist?list=PLBMgVdAlqlwypXtAJZ4bjnny72KPcFstc
+_Projects of students at the CMF Programs (in Russian)：_ https://www.youtube.com/playlist?list=PLBMgVdAlqlwypXtAJZ4bjnny72KPcFstc
 
 
-_CMF Team Podcasts on YouTube_
-https://www.youtube.com/playlist?list=PLBMgVdAlqlwxHpk89KiEbvUFe2W9N-ac9
+_CMF Team Podcasts on YouTube (Mostly in Russian):_ https://www.youtube.com/playlist?list=PLBMgVdAlqlwxHpk89KiEbvUFe2W9N-ac9
 
 
 ## Sample video
