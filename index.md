@@ -36,7 +36,7 @@ In CMF we believe in open science and collaborative work. Our original course is
 ## CMF on YouTube (Playlists)
 
 
-_CMF Team mini-cources in the public domain (in Russian):_
+**CMF Team mini-cources in the public domain (in Russian):**
 
 - [Stochastic processes](https://www.youtube.com/playlist?list=PLBMgVdAlqlww-x8OcNz8oGTjcjW3O7Te_)
 
@@ -49,14 +49,14 @@ _CMF Team mini-cources in the public domain (in Russian):_
 - [Topics in Data Science](https://www.youtube.com/playlist?list=PLBMgVdAlqlwxraYIYO1jrcPYNcfnjfzYp)
 
 
-_CMF Team Seminars：_
+**CMF Team Seminars:**
 
 - [Financial Economics and Quantitative Finance (International Workshop in English)](https://www.youtube.com/playlist?list=PLBMgVdAlqlwxENa3Zm8NwF8m7JZMHZlcV)
 
 - [Financial Econometrics (Scientific Workshop at Moscow State University in Russian)](https://www.youtube.com/playlist?list=PLBMgVdAlqlwyWwCr9Gk0VcnCmWkr-0iCX)
 
 
-_Other Projects：_
+**Other Projects:**
 - [_Projects of students at the CMF Programs (mostly in Russian)_](https://www.youtube.com/playlist?list=PLBMgVdAlqlwypXtAJZ4bjnny72KPcFstc)
 
 
